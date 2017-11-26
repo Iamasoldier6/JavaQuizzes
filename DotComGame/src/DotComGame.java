@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class DotComGame {
 	public static void main(String[] args) {
 		int numOfGuesses = 0;
